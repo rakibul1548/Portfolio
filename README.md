@@ -10,7 +10,7 @@ The website features smooth animations, typing effects, responsive design, and a
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
 
-
+https://portfolio-iota-two-77.vercel.app/
 ---
 
 ## 🚀 Features
