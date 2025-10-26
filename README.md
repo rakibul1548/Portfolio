@@ -1,4 +1,4 @@
-![Portfolio Screenshot](cp.png)
+![Portfolio Screenshot](/image/profile.png)
 
 # 🌌 Amine Portfolio Website
 
