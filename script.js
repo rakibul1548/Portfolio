@@ -258,7 +258,13 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
-
+// ===================
+function downloadCV() {
+    const link = document.createElement('a');
+    link.href = 'cv/Resume_Md_Rakibul (1).pdf';
+    link.download = 'Rakibul-Rakib-CV.pdf';
+    link.click();
+}
 
 
 
